@@ -3,3 +3,10 @@ ProperT_Pricing_Framework.docx.md
 AGENTS.md
 DESIGN.md
 *.py
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
